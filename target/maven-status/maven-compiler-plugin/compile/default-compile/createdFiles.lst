@@ -1,9 +1,12 @@
+SQL\Connector.class
 example\Menu.class
 Postacie\Trener.class
+SQL\DbService.class
 example\KontenerStatystyk.class
 example\Main.class
 Postacie\Zawodnik.class
 ObslugaKonsoli\Operacje.class
+SQL\DbServiceImpl.class
 michal\rys\commons\ConsoleScannerSingleton.class
 Postacie\Bramkarz.class
 Postacie\Postac.class

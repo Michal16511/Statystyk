@@ -1,5 +1,4 @@
 package Postacie;
-
 import ObslugaKonsoli.Operacje;
 import michal.rys.commons.ConsoleScannerSingleton;
 
